@@ -1,5 +1,7 @@
 # A Deep Reinforcement Learning algorithm for Swarm Robotics
 
+**Thesis report:** https://github.com/claytonfk/A_DRL_algorithm_for_SR/blob/master/Thesis.pdf
+
 # 1. Requirements
 
 To run the code, the following requirements should be met. The code has not been tested with earlier or later versions of software and libraries described below, thus forward and backward compatibilities are not guaranteed, however, they are expected.
